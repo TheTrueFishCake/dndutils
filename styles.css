@@ -1,0 +1,13 @@
+h1 {
+    color: black;
+    font-family: pixelArtMedeival;
+}
+h2 {
+    color: black;
+    font-family: pixelArtMedeival;
+}
+
+@font-face {
+    font-family: pixelArtMedeival;
+    src: url(Jacquard12-Regular.ttf);
+}
